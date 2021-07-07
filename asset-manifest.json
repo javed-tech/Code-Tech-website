@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Code-Tech-website/static/css/main.6b00fb8f.chunk.css",
+    "main.js": "/Code-Tech-website/static/js/main.7542789e.chunk.js",
+    "main.js.map": "/Code-Tech-website/static/js/main.7542789e.chunk.js.map",
+    "runtime-main.js": "/Code-Tech-website/static/js/runtime-main.08c5244e.js",
+    "runtime-main.js.map": "/Code-Tech-website/static/js/runtime-main.08c5244e.js.map",
+    "static/css/2.4be38407.chunk.css": "/Code-Tech-website/static/css/2.4be38407.chunk.css",
+    "static/js/2.4dcff5a8.chunk.js": "/Code-Tech-website/static/js/2.4dcff5a8.chunk.js",
+    "static/js/2.4dcff5a8.chunk.js.map": "/Code-Tech-website/static/js/2.4dcff5a8.chunk.js.map",
+    "static/js/3.f3c8d3f3.chunk.js": "/Code-Tech-website/static/js/3.f3c8d3f3.chunk.js",
+    "static/js/3.f3c8d3f3.chunk.js.map": "/Code-Tech-website/static/js/3.f3c8d3f3.chunk.js.map",
+    "index.html": "/Code-Tech-website/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Code-Tech-website/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6b00fb8f.chunk.css.map": "/Code-Tech-website/static/css/main.6b00fb8f.chunk.css.map",
+    "static/js/2.4dcff5a8.chunk.js.LICENSE.txt": "/Code-Tech-website/static/js/2.4dcff5a8.chunk.js.LICENSE.txt",
+    "static/media/androiddevelopement.b9a4ef9c.jpeg": "/Code-Tech-website/static/media/androiddevelopement.b9a4ef9c.jpeg",
+    "static/media/database.80dec373.jpeg": "/Code-Tech-website/static/media/database.80dec373.jpeg",
+    "static/media/digitalmarketing.b1b0cbee.jpeg": "/Code-Tech-website/static/media/digitalmarketing.b1b0cbee.jpeg",
+    "static/media/marketing.5a2e7d42.jpeg": "/Code-Tech-website/static/media/marketing.5a2e7d42.jpeg",
+    "static/media/robo.d9d9560f.png": "/Code-Tech-website/static/media/robo.d9d9560f.png",
+    "static/media/robo1.45d25604.png": "/Code-Tech-website/static/media/robo1.45d25604.png",
+    "static/media/softwaredevelopement.5abd2308.jpeg": "/Code-Tech-website/static/media/softwaredevelopement.5abd2308.jpeg",
+    "static/media/webdevelopement.2b84ee7e.jpeg": "/Code-Tech-website/static/media/webdevelopement.2b84ee7e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08c5244e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.4dcff5a8.chunk.js",
+    "static/css/main.6b00fb8f.chunk.css",
+    "static/js/main.7542789e.chunk.js"
+  ]
+}
